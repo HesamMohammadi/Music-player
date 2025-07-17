@@ -1,4 +1,4 @@
-<img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/c23b24a6-2030-4522-992b-808c8c57cb72" /># Music Player
+
 
 A modern music player web application built with vanilla JavaScript and CSS.  
 Features include music search, cover display, lyrics, seekbar, equalizer visualization, and playlist slider.
