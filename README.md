@@ -1,4 +1,4 @@
-# Music Player
+<img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/c23b24a6-2030-4522-992b-808c8c57cb72" /># Music Player
 
 A modern music player web application built with vanilla JavaScript and CSS.  
 Features include music search, cover display, lyrics, seekbar, equalizer visualization, and playlist slider.
@@ -58,3 +58,5 @@ phone Number:+989332372332
 ---
 
 **Note:** For best results, use a local server (such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+https://drive.google.com/drive/folders/1_5FldLi9Zqb2LbNiC6lCZ1G9a_IBkRGP?usp=sharing
+Download music of this link and put file in public folder.
